@@ -1,0 +1,9 @@
+p{
+    font-size: 20px;
+}
+.cart-container{
+    border: 1px solid whitesmoke;
+    margin-top: 30px;
+    padding: 10px;
+    position: fixed;
+}

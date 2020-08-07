@@ -1,0 +1,25 @@
+img{
+    border: 3px solid white;
+    
+
+}
+.employee-details{
+    margin: 30px;
+    padding: 5px;
+    border: 1px solid lightgray;
+}
+.employee-details p{
+    margin: 2px;
+    font-size:large;
+    text-align: left;
+}
+.button{
+    background-color: gray;
+    width: 120px;
+    height: 25px;
+    color: white;
+    font-weight: bold;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+}
